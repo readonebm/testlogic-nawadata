@@ -1,0 +1,15 @@
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.exe
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.deps.json
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.runtimeconfig.json
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.runtimeconfig.dev.json
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.dll
+D:\projects\testlogic-banurm\testlogic-banurm\bin\Debug\net5.0\testlogic-banurm.pdb
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.AssemblyInfoInputs.cache
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.AssemblyInfo.cs
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.csproj.CoreCompileInputs.cache
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.dll
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\refint\testlogic-banurm.dll
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.pdb
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\testlogic-banurm.genruntimeconfig.cache
+D:\projects\testlogic-banurm\testlogic-banurm\obj\Debug\net5.0\ref\testlogic-banurm.dll
